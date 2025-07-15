@@ -1,6 +1,7 @@
 ##vs code
+
 #클론
-ctrl + ~	//터미널 열기
+ctrl + ~	           //터미널 열기
 git clone https://github.com/사용자명/저장소명.git
 cd 저장소명
 code .
